@@ -9,7 +9,13 @@
 
 1. Create an account on GitHub (if you haven't yet)
 2. Create a repo named `username.github.io` (replace `username` to your GitHub name), then create an `index.html` file with the content below.
-3. Delete and recreate the repo `username.github.io`, then we'll do it the real way.
+3. Delete and recreate the repo `username.github.io`, then we'll do it the *real* way.
+
+## Tools
+
+1. [Git](https://git-scm.com/)
+2. [GitHub CLI](https://cli.github.com)
+3. [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Snippet
 
