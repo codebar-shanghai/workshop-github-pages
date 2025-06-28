@@ -30,13 +30,13 @@
 ```html
 <!doctype html>
 <html>
-	<head>
-		<title>test</title>
-	</head>
+    <head>
+        <title>test</title>
+    </head>
 
-	<body>
-		<h1>It works!</h1>
-	</body>
+    <body>
+        <h1>It works!</h1>
+    </body>
 </html>
 ```
 
