@@ -65,7 +65,7 @@ git commit -m "First commit"
 # 5. Rename default branch to main (optional but recommended)
 git branch -M main
 
-# 6. Connect to GitHub repo (replace `username`)
+# 6. Connect to GitHub repo (replace `username`), this is also only needed for the first time
 git remote add origin https://github.com/username/username.github.io.git
 
 # 7. Push to GitHub
